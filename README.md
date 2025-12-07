@@ -1,6 +1,6 @@
 # Halo semua!👋 
 
-perkenalka nama saya **Muhammad fikriansyah Junaryana Putra**.<br>
+perkenalkan nama saya **Muhammad fikriansyah Junaryana Putra**.<br>
 
 Saya adalah mahasiswa dari perguruan tinggi **STMIK Mardira indonesia**<br>.
 Saya belajar juga di kampus merdeka mitra Dicoding sebagai study independent.<br>
@@ -15,11 +15,3 @@ selain itu saya memiliki beberapa Softskill yang saya pelajari yaitu : <br>
 - 🌱 editing video
 - 💬 dokumenter video
 - ⚡ 3D model dan animasi
-
-### Github Statistic
-<p align="left">
-<a href="https://github.com/penuliscode">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&layout=compact&theme=algolia"/>
-</a>
-</p>
